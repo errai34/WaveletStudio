@@ -1,0 +1,14 @@
+{
+"grid_size": 2048,
+"pix_fixed": 0.25,
+"do_grid": false,
+"transforms": [], 
+"do_reduced": true,
+"J": 10,
+"L": 4,
+"j1": 4,
+"window_size": 2048,
+"filters": "//Users/ciuca/hephaestusAI/cache/filters",
+"cache": "/Users/ciuca/hephaestusAI/cache/",
+"ow_rec": true
+}
